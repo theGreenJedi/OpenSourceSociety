@@ -1,4 +1,4 @@
-# ** Going through differing curriculums **
+# **Going through differing curriculums**
 
 ### Open Source Society - [#/profile/github:16416542]
 Codility -
