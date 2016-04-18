@@ -9,5 +9,5 @@
 #### [Learning to Learn] (https://www.coursera.org/learn/learning-how-to-learn)
 #### [Nand to Tetris] (https://github.com/JediKoder/nand2tetris)
 #### [Machine Language] (https://github.com/JediKoder/coursera-ML)
-#### [edx] 
+#### edx
 etcetc
