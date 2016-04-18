@@ -4,7 +4,7 @@
 ### [Codility] (https://github.com/JediKoder/codility-lessons/tree/master/codility-master)
 ### [FreeCodeCamp] (https://www.freecodecamp.com/jedikoder)
 ### [ODIN Project] (http://www.theodinproject.com/users/38686) 
-### [Viking] (https://github.com/JediKoder/prep_ruby_challenges) ##### fork challenge then solve
+### [Viking] (https://github.com/JediKoder/prep_ruby_challenges)
 #### [Also, my google homepage project] (https://github.com/JediKoder/the_odin_project)
 ### [Euler] (https://github.com/JediKoder/Euler)
 ### Coursera
