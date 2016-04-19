@@ -1,6 +1,6 @@
 # **Going through differing curriculums**
 
-### [Open Source Society] (https://ossu.firebaseapp.com/#/account#/profile/github:16416542)
+### [Open Source Society] (#/profile/github:16416542)
 ### [Codility] (https://github.com/JediKoder/codility-lessons/tree/master/codility-master)
 ### [FreeCodeCamp] (https://www.freecodecamp.com/jedikoder)
 ### [ODIN Project] (http://www.theodinproject.com/users/38686) 
