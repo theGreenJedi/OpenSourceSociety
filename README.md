@@ -8,8 +8,8 @@
 #### [Also, my google homepage project] (https://github.com/JediKoder/the_odin_project)
 ### [Euler] (https://github.com/JediKoder/Euler)
 ## Coursera
-#### [Learning to Learn] (https://www.coursera.org/learn/learning-how-to-learn)
-#### [Nand to Tetris] (https://github.com/JediKoder/nand2tetris)
-#### [Machine Language] (https://github.com/JediKoder/coursera-ML)
-#### edx
+###[Learning to Learn] (https://www.coursera.org/learn/learning-how-to-learn)
+### [Nand to Tetris] (https://github.com/JediKoder/nand2tetris)
+### [Machine Language] (https://github.com/JediKoder/coursera-ML)
+### edx
 etcetc
